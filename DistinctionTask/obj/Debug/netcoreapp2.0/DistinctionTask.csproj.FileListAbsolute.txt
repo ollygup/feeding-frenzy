@@ -1,0 +1,14 @@
+C:\msys64\home\User\DistinctionTask\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\msys64\home\User\DistinctionTask\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\msys64\home\User\DistinctionTask\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\msys64\home\User\DistinctionTask\bin\Debug\netcoreapp2.0\DistinctionTask.deps.json
+C:\msys64\home\User\DistinctionTask\bin\Debug\netcoreapp2.0\DistinctionTask.runtimeconfig.json
+C:\msys64\home\User\DistinctionTask\bin\Debug\netcoreapp2.0\DistinctionTask.runtimeconfig.dev.json
+C:\msys64\home\User\DistinctionTask\bin\Debug\netcoreapp2.0\DistinctionTask.dll
+C:\msys64\home\User\DistinctionTask\bin\Debug\netcoreapp2.0\DistinctionTask.pdb
+C:\msys64\home\User\DistinctionTask\obj\Debug\netcoreapp2.0\DistinctionTask.csprojAssemblyReference.cache
+C:\msys64\home\User\DistinctionTask\obj\Debug\netcoreapp2.0\DistinctionTask.csproj.CoreCompileInputs.cache
+C:\msys64\home\User\DistinctionTask\obj\Debug\netcoreapp2.0\DistinctionTask.AssemblyInfoInputs.cache
+C:\msys64\home\User\DistinctionTask\obj\Debug\netcoreapp2.0\DistinctionTask.AssemblyInfo.cs
+C:\msys64\home\User\DistinctionTask\obj\Debug\netcoreapp2.0\DistinctionTask.dll
+C:\msys64\home\User\DistinctionTask\obj\Debug\netcoreapp2.0\DistinctionTask.pdb
